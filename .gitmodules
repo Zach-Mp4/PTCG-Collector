@@ -1,0 +1,6 @@
+[submodule "PTCG-Backend"]
+	path = PTCG-Backend
+	url = https://github.com/Zach-Mp4/PTCG-Backend
+[submodule "PTCG-Frontend"]
+	path = PTCG-Frontend
+	url = https://github.com/Zach-Mp4/PTCG-Frontend
