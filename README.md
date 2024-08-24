@@ -1,1 +1,1 @@
-PTCG Collector is a platform for users to track their pokemon card collection. 
+PTCG Collector is a platform for enthusiasts of the Pokemon Trading Card Game to track their pokemon card collection. Users can search for cards and add them to their collection as well as view stats about their cards.
